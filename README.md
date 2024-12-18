@@ -55,6 +55,15 @@ Pour démarrer le serveur backend, exécutez :
 npm start
 ```
 
+## Initialisation avec des Données de Test
+
+Pour initialiser la base de données avec des données de test, utilisez le script seed.js:
+Exécutez la commande suivante :
+
+```bash
+npm run seed
+```
+
 ## Auteur
 
 [Assa Baradji](https://github.com/AssaBaradji)
