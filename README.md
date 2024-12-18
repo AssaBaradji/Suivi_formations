@@ -15,13 +15,13 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/AssaBaradji/suivi_formations.git
+git clone https://github.com/AssaBaradji/bakend_training-management.git
 ```
 
 2.Accédez au répertoire du projet :
 
 ```bash
-cd suivi_formations
+cd bakend_training-management
 ```
 
 3.Installez les dépendances :
